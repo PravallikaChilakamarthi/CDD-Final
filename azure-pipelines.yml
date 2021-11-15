@@ -28,6 +28,4 @@ steps:
   displayName: 'Install prerequisites'
 
 
-- script: |
-    python manage.py runserver
   
